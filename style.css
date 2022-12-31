@@ -1,0 +1,56 @@
+html, body{
+    background-image: url(mainp.png);
+    background-repeat: no-repeat;
+    background-size: 1380px;
+    background-position: top;
+    background-position: top;
+}
+
+#playb 
+{
+    border: 1px solid aliceblue;
+    background-color: black;
+    border-radius: 21px;
+    margin-left: 545px;
+    margin-top: 463px;
+    width: 240px;
+    height: 90px;
+    color: aliceblue;
+    font-size: xx-large;
+    
+}
+
+#play2
+{
+    border: 1px solid aliceblue;
+    background-color: #000000;
+    border-radius: 21px;
+    
+  
+    width: 240px;
+    height: 90px;
+    color: aliceblue;
+    font-size: xx-large;
+}
+
+#sup
+{
+    margin-top: 300px;
+    width: 700px;
+    height: 300px;
+    background-color: #00eeff;
+    opacity: 0.9;
+}
+
+#color
+{
+    color: aliceblue;
+    font-size: x-large;
+}
+
+#btn
+{
+    font-weight: 600;
+    font-size: larger;
+    border-radius: 10px;
+}
